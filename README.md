@@ -1,5 +1,5 @@
 # nmc
-NOMADCOIN(NMC) IMPLEMENTATION BETA 0.1.1 RELEASE
+NOMADCOIN(NOM) IMPLEMENTATION BETA 0.1.1 RELEASE
 Nomadco.in Nomadcoin
 ---------------------------------------------
 
@@ -18,7 +18,7 @@ Testnet:
 Specifications:
 ---------------
 
-- Short: NMC
+- Short: NOM
 - Total coin: 250 Million coin cap.
 - X11 hashing algorithm
 - Block time: 1 minute
