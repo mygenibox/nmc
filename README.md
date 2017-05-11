@@ -1,4 +1,4 @@
-# nmc
+# nom
 NOMADCOIN(NOM) IMPLEMENTATION BETA 0.1.1 RELEASE
 Nomadco.in Nomadcoin
 ---------------------------------------------
